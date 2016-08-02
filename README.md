@@ -1,4 +1,4 @@
-# mr-C3I COMMAND and CONTROL
+# python-C3I COMMAND and CONTROL
 
 ### Mark Addinall - 2016
 ### Brisbane Australia
@@ -28,8 +28,7 @@ This is an experimental system comprising
 
 
 I am writing this system using different technology elsewhere, but decided to
-write this version concurrently 
-N/Django and BOOTSTRAP.
+write this version concurrently using PYTHON/Django and BOOTSTRAP.
 
 It seemed a shame to leave PYTHON out of the mix.  The rechnology stack is a little
 older than the full stack JS Frameworks; but if it works well, why not.
